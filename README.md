@@ -40,7 +40,7 @@
 
 
 ## IDE Mais usadas
- <img **align**="center"  src=" https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+ <img **align**="center" alt="java" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitee"/>
 
 
 ## Entusiasta de tecnologia, inovação e soluções criativas, sempre em busca de novas ideias.
