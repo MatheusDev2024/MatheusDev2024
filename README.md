@@ -2,8 +2,9 @@
 ### Olá, eu sou o Matheus Silva 👋
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheusdev2024.github.io/MatheusDev/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://meusite](https://www.linkedin.com/in/matheus-silva-1b23bb163/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://meusite](https://www.instagram.com/math.gabb_?igsh=MTMzczRqdjh3bGF3cA%3D%3D&utm_source=qr ))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-1b23bb163/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/math.gabb_?igsh=MTMzczRqdjh3bGF3cA%3D%3D&utm_source=qr)
+
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusDev2024&show_icons=true&theme=radical)
 
