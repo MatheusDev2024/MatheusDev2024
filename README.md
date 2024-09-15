@@ -40,14 +40,15 @@
 
 
 ## IDE Mais usadas
- <div style="display: inline_block"></br>
-    <img **align**="center" alt="java" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white/>
-    <img **align**="center" alt="java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img **align**="center" alt="java" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img **align**="center" alt="java" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    <img **align**="center" alt="java" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    <img **align**="center" alt="java" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img **align**="center" alt="java" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<style>
+  .center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+<img class="center-img" alt="java" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
     
 </div>
 
