@@ -1,7 +1,8 @@
 
 ### Olá, eu sou o Matheus Silva 👋
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://matheusdev2024.github.io/MatheusDev/)
+[[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+)(https://matheusdev2024.github.io/MatheusDev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://meusite)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
