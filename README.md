@@ -38,5 +38,10 @@
 
 </div>
 
+
+## IDE Mais usadas
+https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
+
+
 ## Entusiasta de tecnologia, inovação e soluções criativas, sempre em busca de novas ideias.
 
