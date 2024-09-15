@@ -40,14 +40,6 @@
 
 
 ## IDE Mais usadas
-<style>
-  .center-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
-
 <img class="center-img" alt="java" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
     
 </div>
